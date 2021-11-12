@@ -1,0 +1,7 @@
+VERIFICATION_KEY = 1da4a48e-2f93-4769-a073-1c9574cd50aa
+
+API_KEY = 1d47080f
+note :---------- %20 for space ------
+sample search by title :
+    http://www.omdbapi.com/?apikey=1d47080f&t=Game%20of%20Thrones&Season=1
+

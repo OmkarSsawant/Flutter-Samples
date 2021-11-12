@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "332470392913",
+    "firebase_url": "https://bankassist-cd921.firebaseio.com",
+    "project_id": "bankassist-cd921",
+    "storage_bucket": "bankassist-cd921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332470392913:android:616ecc8d7c7b5cffa94070",
+        "android_client_info": {
+          "package_name": "com.example.bankassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332470392913-qcjhotqjiqmme1d3ef393jpmdo5foqvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlsOlfy6F68M8kSjreFBQO1HPDGhiPdgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332470392913-qcjhotqjiqmme1d3ef393jpmdo5foqvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
